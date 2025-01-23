@@ -1,0 +1,1 @@
+В данной задаче реализован аналог std::filesystem::recursive_directory_iterator.
